@@ -1,3 +1,5 @@
+[![Deploy](https://github.com/open-honey/open-honey-site/actions/workflows/deploy.yml/badge.svg)](https://github.com/open-honey/open-honey-site/actions/workflows/deploy.yml)
+
 # Open Honey Site
 Landing page site for Open Honey, an open source alternative to the controversial PayPal Honey.
 
